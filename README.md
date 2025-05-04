@@ -5,7 +5,6 @@ Sales and Profit Dashboard (Excel) An interactive and professional Excel dashboa
 ## Dataset Used
 - Dataset <a href="https://github.com/BhushanMarathe28/Data-Analysis-Dashboard-Project/blob/main/Dataset.xlsx">
 
-
 ## Dashboard / Data Analysis Tasks:
 - Total Sales
 - Total Profit
