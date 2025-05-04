@@ -23,3 +23,5 @@ Sales and Profit Dashboard (Excel) An interactive and professional Excel dashboa
 - Designed a simple, interactive dashboard for quick business overview.
 
 ## Dashboard
+![Screenshot 2025-05-04 142653](https://github.com/user-attachments/assets/1d0e0a6d-3e59-4acc-832c-61c1252d0517)
+
