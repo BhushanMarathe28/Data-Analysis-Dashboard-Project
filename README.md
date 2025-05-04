@@ -11,3 +11,11 @@ Sales and Profit Dashboard (Excel) An interactive and professional Excel dashboa
 - Customer Count by Year
 - Top 5 Customer Profit
 - Sales by Sub-Category
+
+## Process
+- Started with a raw Excel dataset containing sales, profit, customer, and region data.
+- Identified and cleaned errors like negative values, and incorrect dates.
+- Used Excel functions and Pivot Tables to summarize key metrics like sales and profit.
+- Analyzed data by months, years, states, and sub-categories to find useful trends.
+- Highlighted top-performing customers and visualized insights using charts.
+- Designed a simple, interactive dashboard for quick business overview.
