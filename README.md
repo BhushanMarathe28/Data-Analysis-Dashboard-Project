@@ -12,6 +12,8 @@ Sales and Profit Dashboard (Excel) An interactive and professional Excel dashboa
 - Top 5 Customer Profit
 - Sales by Sub-Category
 
+- Dashboard Interaction <a href="https://github.com/BhushanMarathe28/Data-Analysis-Dashboard-Project/blob/main/Screenshot%202025-05-04%20142653.png">View Dashboard</a>
+
 ## Process
 - Started with a raw Excel dataset containing sales, profit, customer, and region data.
 - Identified and cleaned errors like negative values, and incorrect dates.
@@ -19,3 +21,5 @@ Sales and Profit Dashboard (Excel) An interactive and professional Excel dashboa
 - Analyzed data by months, years, states, and sub-categories to find useful trends.
 - Highlighted top-performing customers and visualized insights using charts.
 - Designed a simple, interactive dashboard for quick business overview.
+
+## Dashboard
